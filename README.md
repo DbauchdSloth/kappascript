@@ -27,7 +27,7 @@ A JavaScript compiler that combines the best parts of _Babel_, _CoffeeScript_, _
 
 ## Just what the hell do you think you are doing?
 
-Yet another JavaScript compiler that combines the best parts of [Babel](https://babeljs.io/), [CoffeeScript](http://coffeescript.org/), [TypeScript](http://www.typescriptlang.org/) and [PureScript]() in to one glorious, if ill advised, programming language.
+> Yet another JavaScript compiler that combines the best parts of [Babel](https://babeljs.io/), [CoffeeScript](http://coffeescript.org/), [TypeScript](http://www.typescriptlang.org/) and [PureScript]() in to one glorious, if ill advised, programming language.
 
 ## Are you serious?
 
